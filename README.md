@@ -1,1 +1,1 @@
-`<b>Django Authentication with JWT token</b>`
+<b>Django Authentication with JWT token</b>
